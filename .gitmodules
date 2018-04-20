@@ -1,0 +1,3 @@
+[submodule "BeagleBone-I2C"]
+	path = BeagleBone-I2C
+	url = https://github.com/mike-brookes/BeagleBone-I2C.git
